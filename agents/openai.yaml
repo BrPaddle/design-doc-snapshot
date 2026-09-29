@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design Doc Snapshot"
+  short_description: "Clean final-state rewrites for iterated design documents"
+  default_prompt: "Use $design-doc-snapshot to rewrite this iterated design document from its verified baseline and accepted final decisions."
+policy:
+  allow_implicit_invocation: true
